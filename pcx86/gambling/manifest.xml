@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.63.0/manifest.xsl"?>
+<manifest type="software">
+	<title>Gambling Games</title>
+	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/Trump Castle- The Ultimate Casino Gambling Simulation v1.2 (1988)(Capstone Software) [Simulation]/" href="/pcjs-games/pcx86/gambling/1988/TRUMP-CASTLE-120.json" md5="112b03070625e393ecd964cba6f7e4ae" md5json="fae33c90602566dd1e4d8df4b4482446">
+		<name>Trump Castle 1.20 (1988)</name>
+		<file size="11680" time="1988-10-15 15:31:32" attr="0x20" md5="3287ec0350658e3e18d40342f5e443db">ALLFRUIT.CGA</file>
+		<file size="11520" time="1988-10-21 00:09:06" attr="0x20" md5="be64ae4902940d439990f6ebef67b0a1">ALLFRUIT.EGA</file>
+		<file size="9156" time="1988-10-16 15:16:24" attr="0x20" md5="9a2ea2726fa5adcb430744703b3041f6">ALLNAMES.CGC</file>
+		<file size="15432" time="1988-10-16 15:16:22" attr="0x20" md5="e91c810ccb84060638d5270cec761cbe">ALLNAMES.EGC</file>
+		<file size="4926" time="1988-10-18 21:40:34" attr="0x20" md5="4208992b4da0141f1ba383adf74dc6a7">BLKJACK.CGC</file>
+		<file size="8848" time="1988-10-16 00:04:36" attr="0x20" md5="b9907e6b1c6a5a77139e004024997802">BLKJACK.EGC</file>
+		<file size="19790" time="1988-10-16 16:41:22" attr="0x20" md5="3c458c66b4989a832b8701786e4df52b">CARDPART</file>
+		<file size="14466" time="1988-10-18 21:40:48" attr="0x20" md5="b553f119fad81bd0ecb1c5fe8a13274f">CRAP.CGC</file>
+		<file size="31414" time="1988-10-18 21:40:12" attr="0x20" md5="0e3d69ef664a52ff39db4d5b0c11c6c0">CRAP.EGC</file>
+		<file size="18672" time="1988-10-20 22:38:16" attr="0x20" md5="98e79fcf041ff8ce9c1fc04705502a83">CROWNDAT.CGC</file>
+		<file size="7784" time="1988-10-08 15:55:06" attr="0x20" md5="597bb5ad3ef7c6493ae353218d0077dc">CROWNDAT.EGA</file>
+		<file size="7176" time="1988-10-16 16:41:24" attr="0x20" md5="1caf092f2d0202879e1640672f5ec363">DICEPART</file>
+		<file size="3036" time="1988-10-15 12:02:30" attr="0x20" md5="d197fca3ba5373f1696e57019013aa8d">HANDLES.CGA</file>
+		<file size="6624" time="1988-10-15 12:08:24" attr="0x20" md5="f92188c57cd142d03c5483ffe9c53b56">HANDLES.EGA</file>
+		<file size="6424" time="1988-10-16 16:41:26" attr="0x20" md5="aaf8220a99ef6de8782d1cf917ababcc">HANDPART</file>
+		<file size="16114" time="1988-10-10 21:39:12" attr="0x20" md5="6fdf35e16e2652835f4df5591c644e12">KENOBET.CGC</file>
+		<file size="30008" time="1988-10-10 21:37:54" attr="0x20" md5="d48eaa37a6615b7a03de01cf2f9f3927">KENOBET.EGC</file>
+		<file size="5392" time="1988-10-10 21:39:22" attr="0x20" md5="9222c5c306ab988374b421f98e4bff90">KENOBOX.CGC</file>
+		<file size="14156" time="1988-10-10 21:38:04" attr="0x20" md5="351c8672137619419dd4c373cc46e34c">KENOBOX.EGC</file>
+		<file size="9876" time="1988-10-10 21:39:28" attr="0x20" md5="4c19a69fa7acee2fa40ad8c8b8d0261e">POKERTEM.CGC</file>
+		<file size="22162" time="1988-10-10 21:38:14" attr="0x20" md5="9f3e48fdb5ae5e12e31caebcfbe69ff6">POKERTEM.EGC</file>
+		<file size="2906" time="1988-10-15 16:05:44" attr="0x20" md5="564c893638aa7f36e234e5c96e796203">PROSLOTS</file>
+		<file size="81665" time="1989-01-27 17:59:52" attr="0x20" md5="4520054c35bd1142f5b1afc9677e02c0">R&amp;C.EXE</file>
+		<file size="14452" time="1988-10-15 17:41:24" attr="0x20" md5="bb942975a9ae4e44a779548b4c87a51c">ROULETTE.CGC</file>
+		<file size="33640" time="1988-10-15 19:46:00" attr="0x20" md5="01c8688bf80b66216cd2de84655e6033">ROULETTE.EGC</file>
+		<file size="198" time="2001-06-18 21:41:02" attr="0x20" md5="a54a2138702c81e5a0411e4c70ecab4e">SCORES</file>
+		<file size="11208" time="1988-10-15 20:00:52" attr="0x20" md5="612e9d2e47ccba853f2d34c7d6f953b8">SLOTLG.CGC</file>
+		<file size="25696" time="1988-10-15 23:03:12" attr="0x20" md5="50c51e5e70c84f4122161f353bff2805">SLOTLG.EGC</file>
+		<file size="83191" time="1988-11-10 21:02:52" attr="0x20" md5="f9d14db23dad2ad639a0cd4226e4fd55">SLOTS.EXE</file>
+		<file size="4960" time="1988-10-15 14:41:28" attr="0x20" md5="beef81b9f25b9d16266847057acd5e21">SLOTSLCT.CGA</file>
+		<file size="10384" time="1988-09-25 17:45:46" attr="0x20" md5="fb4c833085005db9dac35a8a1743a6fb">SLOTSLCT.EGA</file>
+		<file size="10550" time="1988-10-15 20:01:22" attr="0x20" md5="952f6baaaf1d5160aebe41552dc3d159">SLOTSM.CGC</file>
+		<file size="24134" time="1988-10-15 23:03:42" attr="0x20" md5="35491b0b46ba43f8990da2579e546871">SLOTSM.EGC</file>
+		<file size="6423" time="1988-10-30 23:42:06" attr="0x20" md5="0d0b90b00c5341cd77c0176689328249">TEXTPART</file>
+		<file size="17906" time="1988-10-16 16:41:26" attr="0x20" md5="bac2474a801dfd6b7152396250b3c5c3">TITLE</file>
+		<file size="82833" time="1988-11-09 19:47:38" attr="0x20" md5="f1ca2959cdd281fa571d1789dc64cb52">TITLE.EXE</file>
+		<file size="607" time="2011-02-06 21:28:58" attr="0x20" md5="5386eaf33ac69d87c216b9c080efec3d">TRUMP.BAT</file>
+		<file size="16872" time="1988-10-20 22:11:00" attr="0x20" md5="527124617d8ced84bfe07ab506cce744">WHEEL1</file>
+		<file size="271" time="2011-02-07 21:29:56" attr="0x20" md5="52c080aa7affd3605e75f935b0e7dd3e">FILE_ID.DIZ</file>
+	</disk>
+</manifest>
