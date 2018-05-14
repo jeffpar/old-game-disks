@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.70.0/manifest.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.70.1/manifest.xsl"?>
 <manifest type="software">
 	<title>Gambling Games</title>
 	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/Trump Castle- The Ultimate Casino Gambling Simulation v1.2 (1988)(Capstone Software) [Simulation]/" href="/pcjs-games/pcx86/other/1988/gambling/TRUMP-CASTLE-120.json" md5="112b03070625e393ecd964cba6f7e4ae" md5json="fae33c90602566dd1e4d8df4b4482446">
