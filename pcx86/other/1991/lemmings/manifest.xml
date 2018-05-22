@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.71.1/manifest.xsl"?>
+<manifest type="software">
+	<title>Lemmings</title>
+	<type>Game</type>
+	<category>Strategy</category>
+	<developer>DMA Design</developer>
+	<publisher>Psygnosis</publisher>
+	<releaseDate>1991</releaseDate>
+	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/LEMMINGS" href="/pcjs-games/pcx86/other/1991/lemmings/LEMMINGS.json" md5="532ceb402bef329c00106e57941936fd" md5json="da4cc251eb6ef549fe2c4d1a1fd4d366">
+		<name>Lemmings (1991)</name>
+		<file size="12988" time="1991-04-30 10:21:36" attr="0x20" md5="548f5e9d2f022109606fe9df329dd562">ADLIB.DAT</file>
+		<file size="2188" time="1991-05-10 16:47:16" attr="0x20" md5="d3831061ff9eea0ab1be587b42b4a736">AUTODET.EXE</file>
+		<file size="20901" time="1991-03-31 17:19:16" attr="0x20" md5="645d2a6a01ec693c05974ca956e46e1a">CGAGR0.DAT</file>
+		<file size="25696" time="1991-03-31 17:19:16" attr="0x20" md5="12bdf140e553718a4cfba6a25ba659f2">CGAGR1.DAT</file>
+		<file size="15113" time="1991-03-31 17:19:16" attr="0x20" md5="477ed5c2e9a37d65d0feaa87629c5108">CGAGR2.DAT</file>
+		<file size="15427" time="1991-03-31 17:19:16" attr="0x20" md5="2627e32e0a3874bb08ad364def6df974">CGAGR3.DAT</file>
+		<file size="20851" time="1991-03-31 17:19:16" attr="0x20" md5="65b522de041dd2e84b83c0459360c183">CGAGR4.DAT</file>
+		<file size="29994" time="1991-07-19 11:19:48" attr="0x20" md5="293a06e672acff152e074f35e93c0081">CGALEMMI.EXE</file>
+		<file size="22111" time="1991-04-22 15:28:42" attr="0x20" md5="9514be04bd6004d0e33200ba99518179">CGAMAIN.DAT</file>
+		<file size="17992" time="1991-03-31 17:19:16" attr="0x20" md5="478987dd3aa112dadeddabbe3a5eb75b">CGASPEC0.DAT</file>
+		<file size="11442" time="1991-03-31 17:19:16" attr="0x20" md5="568b6dd03e9108e1a2f73a80e53451d7">CGASPEC1.DAT</file>
+		<file size="13129" time="1991-03-31 17:19:16" attr="0x20" md5="7f371fe40d5c33f423a0b70200f72ddd">CGASPEC2.DAT</file>
+		<file size="23838" time="1991-03-31 17:19:16" attr="0x20" md5="140b33046b5246cbccadf0d0ac9331c5">CGASPEC3.DAT</file>
+		<file size="1056" time="1991-04-30 11:03:06" attr="0x20" md5="7d0488991e26882f4e3099aa6a6dfc72">GROUND0O.DAT</file>
+		<file size="1056" time="1991-04-30 11:03:10" attr="0x20" md5="69c8eebaf1a33097080d3a76f1c3531a">GROUND1O.DAT</file>
+		<file size="1056" time="1991-04-30 11:03:14" attr="0x20" md5="d81d55c49e4265bc3b05e960ca22da8a">GROUND2O.DAT</file>
+		<file size="1056" time="1991-04-30 11:03:18" attr="0x20" md5="5e34c088f01cfc3a8c8ef398d0de578d">GROUND3O.DAT</file>
+		<file size="1056" time="1991-04-30 11:03:22" attr="0x20" md5="3c3279995ea61868b6a20d12ee0a0c5c">GROUND4O.DAT</file>
+		<file size="114" time="1991-04-23 18:18:34" attr="0x20" md5="569842c03caa3b102c3bae163c5695f5">HELP.BAT</file>
+		<file size="9145" time="1991-05-11 17:04:54" attr="0x20" md5="457e7eb7b1cde35f71a10ee1e2e2afb9">INSTALL.EXE</file>
+		<file size="403" time="1991-04-23 18:16:00" attr="0x20" md5="2802e9d3a448a7182afaebdf9db2046e">LEM1.DOC</file>
+		<file size="384" time="1991-04-23 18:20:06" attr="0x20" md5="ffcf5dd1ca10ceaa24583bf5f471664d">LEM2.DOC</file>
+		<file size="530" time="1991-04-23 18:20:08" attr="0x20" md5="fc6f799d6f45d4a300e22d02e5bfb2c1">LEM3.DOC</file>
+		<file size="744" time="1991-05-23 16:14:02" attr="0x20" md5="0df2e3d30e7efada0b4ea30b8f88dcbe">LEM4.DOC</file>
+		<file size="569" time="1991-05-03 12:49:34" attr="0x20" md5="a3d3c908fd3d59ff6d4a124b4b4742df">LEMMINGS.BAT</file>
+		<file size="3722" time="1991-04-30 11:13:56" attr="0x20" md5="7924482f83d93abb12c4883a686b4300">LEVEL000.DAT</file>
+		<file size="4519" time="1991-04-30 11:14:20" attr="0x20" md5="883c61683e75d4d1f76f79f3e08f5beb">LEVEL001.DAT</file>
+		<file size="4819" time="1991-04-30 11:14:48" attr="0x20" md5="2ecde636e4ddda745b684fb416058795">LEVEL002.DAT</file>
+		<file size="6827" time="1991-04-30 11:15:22" attr="0x20" md5="c0593d91acd774b7fe2be1a3dfcaf0fb">LEVEL003.DAT</file>
+		<file size="3889" time="1991-04-30 11:15:44" attr="0x20" md5="400a9ce890075dd4754d06fb174bb5d7">LEVEL004.DAT</file>
+		<file size="7255" time="1991-04-30 11:16:18" attr="0x20" md5="0c7319343d2b438dbd93754d50e5d727">LEVEL005.DAT</file>
+		<file size="7149" time="1991-04-30 11:16:56" attr="0x20" md5="2488efbb2633c288fa37756132d8a1af">LEVEL006.DAT</file>
+		<file size="5253" time="1991-04-30 11:17:22" attr="0x20" md5="ea342218a9d85142ef20aabe73b4204f">LEVEL007.DAT</file>
+		<file size="7037" time="1991-04-30 11:17:58" attr="0x20" md5="961134d9973b9b79dd2bc74d25c0ae2b">LEVEL008.DAT</file>
+		<file size="4932" time="1991-04-30 11:18:26" attr="0x20" md5="525737407baa1d9a40ab45efdfee0b57">LEVEL009.DAT</file>
+		<file size="56472" time="1991-04-22 15:18:52" attr="0x20" md5="bcaab6581213f311e05601d4a4123016">MAIN.DAT</file>
+		<file size="4480" time="1991-03-31 17:19:16" attr="0x20" md5="941c3e1097f3e8d651d614670051fadf">ODDTABLE.DAT</file>
+		<file size="12569" time="1991-07-30 17:33:06" attr="0x20" md5="556536f223d572ba3b29162c12eaad03">TANDYSND.DAT</file>
+		<file size="30928" time="1991-07-19 11:19:50" attr="0x20" md5="71a89386d1b7cd8f4ff6b4f6d3a14808">TGALEMMI.EXE</file>
+		<file size="14733" time="1991-04-22 15:31:10" attr="0x20" md5="3e5192e8ad8656f7c6eb3db4f34c1ab4">TGAMAIN.DAT</file>
+		<file size="24464" time="1991-03-31 17:19:16" attr="0x20" md5="21eab0cd7fa14eda54a4a65ab7f5ff43">VGAGR0.DAT</file>
+		<file size="32966" time="1991-03-31 17:19:16" attr="0x20" md5="860ae03aa82bf061e37341ed59f4b1ec">VGAGR1.DAT</file>
+		<file size="22290" time="1991-03-31 17:19:16" attr="0x20" md5="7a970ae33c062a038288350cd473cc27">VGAGR2.DAT</file>
+		<file size="22775" time="1991-03-31 17:19:16" attr="0x20" md5="7b1128b5edfcf82fa735764342eb5da7">VGAGR3.DAT</file>
+		<file size="28692" time="1991-03-31 17:19:16" attr="0x20" md5="2024a440de5bedd5f4327dc274a4ba21">VGAGR4.DAT</file>
+		<file size="32785" time="1991-07-19 11:19:34" attr="0x20" md5="a4edd67d4c3bbdde4f1d508581e984ee">VGALEMMI.EXE</file>
+		<file size="28655" time="1991-03-31 17:19:16" attr="0x20" md5="1d10093819f73efae67b92c521c4b5cc">VGASPEC0.DAT</file>
+		<file size="18567" time="1991-03-31 17:19:16" attr="0x20" md5="cd2ce9f2dc8ac18fcaedec41266db8ea">VGASPEC1.DAT</file>
+		<file size="23284" time="1991-03-31 17:19:16" attr="0x20" md5="24d633bbe8482fa25cd0f7d1dff4fe0a">VGASPEC2.DAT</file>
+		<file size="34827" time="1991-03-31 17:19:16" attr="0x20" md5="53900302009c70fb9dfa8f16445805af">VGASPEC3.DAT</file>
+	</disk>
+</manifest>
