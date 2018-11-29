@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.72.6/manifest.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.72.7/manifest.xsl"?>
 <manifest type="software">
 	<title>Leather Goddesses of Phobos</title>
 	<version/>
@@ -9,5 +9,5 @@
 	<publisher>Infocom</publisher>
 	<releaseDate>1986</releaseDate>
 	<machine href="/devices/pcx86/machine/5150/cga/256kb/machine.xml"/>
-	<disk id="disk01" size="368640" chs="40:2:9" img="archive/PHOBOS.img" href="/pcjs-games/pcx86/infocom/phobos/PHOBOS.json" md5="4bf08be942bde8d7360dd48a1798bb24" md5json="62b91f234b85eddd8340c27e6e884fd0"/>
+	<disk id="disk01" size="368640" chs="40:2:9" img="archive/PHOBOS.img" href="/disks-game/pcx86/infocom/phobos/PHOBOS.json" md5="4bf08be942bde8d7360dd48a1798bb24" md5json="62b91f234b85eddd8340c27e6e884fd0"/>
 </manifest>

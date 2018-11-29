@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.72.6/manifest.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.72.7/manifest.xsl"?>
 <manifest type="software">
 	<title>Lemmings</title>
 	<type>Game</type>
@@ -7,7 +7,7 @@
 	<developer>DMA Design</developer>
 	<publisher>Psygnosis</publisher>
 	<releaseDate>1991</releaseDate>
-	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/LEMMINGS" href="/pcjs-games/pcx86/other/1991/lemmings/LEMMINGS.json" md5="532ceb402bef329c00106e57941936fd" md5json="da4cc251eb6ef549fe2c4d1a1fd4d366">
+	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/LEMMINGS" href="/disks-game/pcx86/other/1991/lemmings/LEMMINGS.json" md5="532ceb402bef329c00106e57941936fd" md5json="da4cc251eb6ef549fe2c4d1a1fd4d366">
 		<name>Lemmings (1991)</name>
 		<file size="12988" time="1991-04-30 10:21:36" attr="0x20" md5="548f5e9d2f022109606fe9df329dd562">ADLIB.DAT</file>
 		<file size="2188" time="1991-05-10 16:47:16" attr="0x20" md5="d3831061ff9eea0ab1be587b42b4a736">AUTODET.EXE</file>
