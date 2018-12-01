@@ -1,7 +1,7 @@
 ## PCjs Game Disk Archive
 
-The [PCjs Game Disk Archive](https://github.com/jeffpar/pcjs-games) is a repository intended for use as a submodule with
-the [PCjs Project](https://github.com/jeffpar/pcjs).  It is published [here](https://jeffpar.github.io/pcjs-games) for
+The [PCjs Game Disk Archive](https://github.com/jeffpar/pcjs-game-disks) is a repository intended for use as a submodule with
+the [PCjs Project](https://github.com/jeffpar/pcjs).  It is published [here](https://game-disks.pcjs.org) for
 use with the [PCjs Machines](https://www.pcjs.org/) website.
 
 The goal is to migrate disks originally archived within the [PCjs Project](https://github.com/jeffpar/pcjs) to this
