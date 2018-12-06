@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.73.1/manifest.xsl"?>
+<manifest type="software">
+	<title>Commander Keen</title>
+	<type>Game</type>
+	<category>Action</category>
+	<author>id Software</author>
+	<publisher>Apogee Software</publisher>
+	<releaseDate/>
+	<disk id="disk01" size="327680" chs="40:2:8" dir="episode1/archive/KEEN1-V11" href="/disks-game/pcx86/id/commander_keen/episode1/KEEN1-V11.json" md5="8351a9f1f0cb86f2d113bed420b125cb" md5json="cfdd903cff0037942f0496adff842418">
+		<name>Commander Keen: Episode One</name>
+		<file size="15568" time="1991-01-01 13:00:08" attr="0x20" md5="b1e632ee0483b66c2f1dff487547753b">EGAHEAD.CK1</file>
+		<file size="57065" time="1991-01-01 13:00:42" attr="0x20" md5="80a5870d9b48970333837fa0293561ed">EGALATCH.CK1</file>
+		<file size="17633" time="1991-01-01 13:00:52" attr="0x20" md5="ed9a0d1736034c155555543263939fe7">EGASPRIT.CK1</file>
+		<file size="942" time="1991-01-01 13:00:02" attr="0x20" md5="3d9b5805e21a7cc7b248664b0b8f6494">ENDTEXT.CK1</file>
+		<file size="8565" time="1991-01-01 13:00:06" attr="0x20" md5="a44bcb798f931dc392903dcc5446c068">FINALE.CK1</file>
+		<file size="1859" time="1991-01-01 13:00:18" attr="0x20" md5="476301a5a6ac41e39ea18d900e1c8e02">HELPTEXT.CK1</file>
+		<file size="51226" time="1991-01-01 13:00:42" attr="0x20" md5="26032e3d3e383273213d66eff0771b64">KEEN1.EXE</file>
+		<file size="1368" time="1991-01-01 13:00:06" attr="0x20" md5="075a98e05b6d5bbed80ec21420577582">LEVEL01.CK1</file>
+		<file size="724" time="1991-01-01 13:00:06" attr="0x20" md5="2d6b634fbce4aa357375d62300fb3e07">LEVEL02.CK1</file>
+		<file size="3474" time="1991-01-01 13:00:06" attr="0x20" md5="956f2bbf2ad4fe7c52ad90962bd92166">LEVEL03.CK1</file>
+		<file size="1720" time="1991-01-01 13:00:06" attr="0x20" md5="57b24d48be8748362a0c5e2277d2d859">LEVEL04.CK1</file>
+		<file size="810" time="1991-01-01 13:00:06" attr="0x20" md5="1b6cd04bffb03fe26b722260da3316f9">LEVEL05.CK1</file>
+		<file size="928" time="1991-01-01 13:00:06" attr="0x20" md5="7859497ced955aa87b4a935b43ae15b8">LEVEL06.CK1</file>
+		<file size="5650" time="1991-01-01 13:00:06" attr="0x20" md5="337259268ca2338ee4d16818cbcd59d4">LEVEL07.CK1</file>
+		<file size="3416" time="1991-01-01 13:00:06" attr="0x20" md5="51b099927527e88f8450163d05c2ca39">LEVEL08.CK1</file>
+		<file size="1638" time="1991-01-01 13:00:06" attr="0x20" md5="de0e0de6b46474e2f4f06fc9abfd3e61">LEVEL09.CK1</file>
+		<file size="2086" time="1991-01-01 13:00:06" attr="0x20" md5="0bb9ac865cdcbd46bdcacd493669d499">LEVEL10.CK1</file>
+		<file size="1636" time="1991-01-01 13:00:06" attr="0x20" md5="b341dd49e84d7580a9eb4280827a7251">LEVEL11.CK1</file>
+		<file size="2178" time="1991-01-01 13:00:06" attr="0x20" md5="edf1eb3db5a424360996e82ecf1dba93">LEVEL12.CK1</file>
+		<file size="9908" time="1991-01-01 13:00:06" attr="0x20" md5="0cb4b321cdbb2d69682c258788ce8e4b">LEVEL13.CK1</file>
+		<file size="7024" time="1991-01-01 13:00:06" attr="0x20" md5="5d6d6814d7e7bf91dde2ec1792d45976">LEVEL14.CK1</file>
+		<file size="2234" time="1991-01-01 13:00:06" attr="0x20" md5="09b0dc88bdb234d6b2efd5b8ac973dc0">LEVEL15.CK1</file>
+		<file size="5818" time="1991-01-01 13:00:06" attr="0x20" md5="6ee167a36e7517320ff7ae6138f22e9d">LEVEL16.CK1</file>
+		<file size="5638" time="1991-01-01 13:00:06" attr="0x20" md5="bfe6781e44056cbc248701ae192122ac">LEVEL80.CK1</file>
+		<file size="758" time="1991-01-01 13:00:06" attr="0x20" md5="b86086e33b4fb169f96abdf002fd64e3">LEVEL81.CK1</file>
+		<file size="1262" time="1991-01-01 13:00:06" attr="0x20" md5="dd1a09d6e332e0ae13c78670763ed891">LEVEL90.CK1</file>
+		<file size="27886" time="1991-01-01 13:00:56" attr="0x20" md5="c8c4b2ce09a1d19d2763493c7e7ad44a">PREVIEW2.CK1</file>
+		<file size="25429" time="1991-01-01 13:00:08" attr="0x20" md5="eaff03166eba1d1d5da749b0d687b3a6">PREVIEW3.CK1</file>
+		<file size="2160" time="1991-01-01 13:00:32" attr="0x20" md5="c480310fb66b36854b293264dbf6d8ff">PREVIEWS.CK1</file>
+		<file size="8898" time="1991-01-01 13:00:06" attr="0x20" md5="c726f4948d49c5b212cc6f6bc8a72247">SOUNDS.CK1</file>
+		<file size="3504" time="1991-01-01 13:00:06" attr="0x20" md5="0f6e2c7fc0ec2df428757386b072b071">STORYTXT.CK1</file>
+	</disk>
+</manifest>
