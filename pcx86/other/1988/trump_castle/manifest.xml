@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.73.1/manifest.xsl"?>
 <manifest type="software">
-	<title>Gambling Games</title>
-	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/Trump Castle- The Ultimate Casino Gambling Simulation v1.2 (1988)(Capstone Software) [Simulation]/" href="/disks-game/pcx86/other/1988/gambling/TRUMP-CASTLE-120.json" md5="112b03070625e393ecd964cba6f7e4ae" md5json="fae33c90602566dd1e4d8df4b4482446">
+	<title>Trump Castle</title>
+	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/TRUMP-CASTLE-120" href="/disks-game/pcx86/other/1988/trump_castle/TRUMP-CASTLE-120.json" md5="f157fdd256fdfbf6038a3503d0ae8bd0" md5json="36f2aa327abde853909a5f65516d38a4">
 		<name>Trump Castle 1.20 (1988)</name>
 		<file size="11680" time="1988-10-15 15:31:32" attr="0x20" md5="3287ec0350658e3e18d40342f5e443db">ALLFRUIT.CGA</file>
 		<file size="11520" time="1988-10-21 00:09:06" attr="0x20" md5="be64ae4902940d439990f6ebef67b0a1">ALLFRUIT.EGA</file>
@@ -42,6 +42,5 @@
 		<file size="82833" time="1988-11-09 19:47:38" attr="0x20" md5="f1ca2959cdd281fa571d1789dc64cb52">TITLE.EXE</file>
 		<file size="607" time="2011-02-06 21:28:58" attr="0x20" md5="5386eaf33ac69d87c216b9c080efec3d">TRUMP.BAT</file>
 		<file size="16872" time="1988-10-20 22:11:00" attr="0x20" md5="527124617d8ced84bfe07ab506cce744">WHEEL1</file>
-		<file size="271" time="2011-02-07 21:29:56" attr="0x20" md5="52c080aa7affd3605e75f935b0e7dd3e">FILE_ID.DIZ</file>
 	</disk>
 </manifest>

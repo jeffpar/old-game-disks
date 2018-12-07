@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.73.1/manifest.xsl"?>
+<manifest type="software">
+	<title>The Oregon Trail</title>
+	<version>2.1</version>
+	<type>Game</type>
+	<category>Adventure</category>
+	<category>Educational</category>
+	<category>Role-Playing</category>
+	<category>RPG</category>
+	<category>Simulation</category>
+	<category>Strategy</category>
+	<author>MECC</author>
+	<releaseDate>1990</releaseDate>
+	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/OREGON_TRAIL-210" href="/disks-game/pcx86/other/1990/oregon_trail/OREGON_TRAIL-210.json" md5="77ac558380609b27cadb2fdf84fc9b24" md5json="a68c201c387771d63dadd18f9b8b5e20">
+		<name>Oregon Trail 2.1 (1990)</name>
+		<file size="2646" time="2007-08-18 04:10:00" attr="0x20" md5="38dbf31256a4d296de1a94caf1a36fcd">BIT8X8.GFT</file>
+		<file size="6253" time="2007-08-18 04:10:00" attr="0x20" md5="1f065e66d848fd342b1df50a508f1ca0">CGA.BGI</file>
+		<file size="14586" time="2007-08-18 04:10:00" attr="0x20" md5="94eaa55b88a48012a61c4133ddbb5e10">DIALOGS.REC</file>
+		<file size="180" time="2007-08-18 04:10:00" attr="0x20" md5="c70104d48536293c16c5860a80551d20">HISCORES.REC</file>
+		<file size="21264" time="2007-08-18 04:10:00" attr="0x20" md5="333a70dc0907ffb30013088c65078684">INSTALL.EXE</file>
+		<file size="9" time="2007-08-18 04:10:00" attr="0x20" md5="4a444253ef4cf9b856100618d39c8177">JOYCAL.REC</file>
+		<file size="1562" time="2007-08-18 04:10:00" attr="0x20" md5="aeea34eb00f1155c1e4fef3005210987">LOGO.004</file>
+		<file size="2117" time="2007-08-18 04:10:00" attr="0x20" md5="71eddf56fba5b1e86c3d64b9fe77eed0">LOGO.256</file>
+		<file size="81896" time="2007-08-18 04:10:02" attr="0x20" md5="c1e4c3631186506374303bf3d7214351">OREGON.EXE</file>
+		<file size="189831" time="2007-08-18 04:10:02" attr="0x20" md5="ecc4571b0978940651b238185e503e87">OTCGA.PCL</file>
+		<file size="321139" time="2007-08-18 04:10:04" attr="0x20" md5="90cb87eae619973d9f96ac60753b14c0">OTMCGA.PCL</file>
+		<file size="906" time="2007-08-18 04:10:00" attr="0x20" md5="5b369dca3111fdd5a2d63519aad7f40a">PAL.256</file>
+		<file size="350" time="2007-08-18 04:10:00" attr="0x20" md5="03b717c5f2dbb663671ac12ba89c29ef">PRODUCT.PF</file>
+		<file size="1177" time="2007-08-18 04:10:00" attr="0x20" md5="15ffaeaa13f05471983202c974859aba">README</file>
+		<file size="2867" time="2007-08-18 04:10:00" attr="0x20" md5="d6f518fd30c72e8ed42548e4adaf1586">SONGS.TXT</file>
+		<file size="110" time="2007-08-18 05:43:40" attr="0x20" md5="c2011714cda4e3cc575e768c2f740d4b">TOMB.REC</file>
+		<file size="3289" time="2007-08-18 04:10:04" attr="0x20" md5="91588bb5aa2e45c5210e5a8383d13648">VGA256.BGI</file>
+		<file size="144" time="2007-08-18 04:10:04" attr="0x20" md5="b1c1c62d5e7253770a314488c390329c">ZOP12.GAM</file>
+	</disk>
+</manifest>
