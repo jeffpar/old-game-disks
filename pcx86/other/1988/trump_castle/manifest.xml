@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.75.1/manifest.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/versions/pcx86/1.75.2/manifest.xsl"?>
 <manifest type="software">
 	<title>Trump Castle</title>
 	<disk id="disk01" size="1228800" chs="80:2:15" dir="archive/TRUMP-CASTLE-120" href="/disks-game/pcx86/other/1988/trump_castle/TRUMP-CASTLE-120.json" md5="f157fdd256fdfbf6038a3503d0ae8bd0" md5json="36f2aa327abde853909a5f65516d38a4">
